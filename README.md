@@ -7,6 +7,7 @@
 
 ## Estadísticas de GItHub
 ![JaviGarc1a github stats](https://github-readme-stats.vercel.app/api?username=JaviGarc1a&show_icons=true&theme=radical&include_all_commits=true)
+![JaviGarc1a github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JaviGarc1a&theme=radical&layout=compact)
 [![JaviGarc1a trophy](https://github-profile-trophy.vercel.app/?username=JaviGarc1a&theme=onedark&title=Reviews,Commits,Issue,PullRequest,Experience)](https://github.com/JaviGarc1a/JaviGarc1a)
 
 ## 🌐 Encuéntrame en:
