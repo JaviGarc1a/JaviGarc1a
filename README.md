@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=7C7D7C&width=435&lines=%C2%A1Hey+%F0%9F%91%8B!+Soy+Javier+Garc%C3%ADa+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Estudiante+Ingenier%C3%ADa+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=7C7D7C&width=435&lines=%C2%A1Hey+%F0%9F%91%8B%F0%9F%8F%BB!+Soy+Javier+Garc%C3%ADa+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Ingeniero+Software)](https://git.io/typing-svg)
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
